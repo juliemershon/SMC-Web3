@@ -1,0 +1,56 @@
+:root {
+    --white: #ffffffff;
+    --dark-purple: #412234ff;
+    --dark-byzantium: #6d466bff;
+    --wisteria: #b49fccff;
+    --misty-rose: #ead7d7ff;
+}
+
+body {
+    background-color: var(--white);
+    font-family: 'Urbanist', sans-serif;
+}
+
+.toppix {
+    background-image: url('/images/jumbo3.png');
+  
+
+}
+
+.navbar {
+    color: var(--dark-purple);
+    background-color: var(--misty-rose);
+}
+
+.nav-item {
+    color: var(--misty-rose);
+}
+
+.nav-text {
+    color: var(--dark-purple) !important;
+}
+
+p {
+    color: var(--dark-purple);
+}
+
+h1 {
+    color: var(--wisteria);
+}
+
+h3 {
+    color: var(--dark-byzantium)
+}
+
+.card-text {
+    color: var(--dark-purple);
+}
+
+.card-body {
+    background-color: var(--wisteria);
+}
+
+.card {
+    background-color: var(--wisteria) ;
+}
+

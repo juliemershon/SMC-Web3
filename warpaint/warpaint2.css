@@ -1,0 +1,55 @@
+:root {
+    --azure-x-11-web-color: #ecf8f8ff;
+    --isabelline: #eee4e1ff;
+    --almond: #e7d8c9ff;
+    --desert-sand: #e6beaeff;
+    --grullo: #b2967dff;
+}
+
+body {
+    background-color: var(--grullo);
+    font-family: 'Source Code Pro', monospace;
+}
+
+.toppix {
+    background-image: url('/images/jumbo2.png');
+  
+
+}
+
+.navbar {
+    color: var(--almond);
+    background-color: var(--azure-x-11-web-color);
+}
+
+.nav-item {
+    color: var(--azure-x-11-web-color);
+}
+
+.nav-text {
+    color: var(--grullo) !important;
+}
+
+p {
+    color: var(--azure-x-11-web-color);
+}
+
+h1 {
+    color: var(--isabelline);
+}
+
+h3 {
+    color: var(--isabelline)
+}
+
+.card-text {
+    color: var(--grullo);
+}
+
+.card-body {
+    background-color: var(--almond);
+}
+
+.card {
+    background-color: var(--almond) ;
+}

@@ -1,0 +1,60 @@
+:root {
+    --mint-cream: #f1fffaff;
+    --tea-green: #ccfccbff;
+    --celadon: #96e6b3ff;
+    --middle-green: #568259ff;
+    --ebony: #464e47ff;
+}
+
+body {
+    background-color: var(--ebony);
+    font-family: 'K2D', sans-serif;
+}
+
+.toppix {
+    background-image: url('/images/jumbo1.png');
+  
+
+}
+
+.navbar {
+    color: var(--celadon);
+    background-color: var(--mint-cream);
+}
+
+.navbar-toggler {
+    color: var(--mint-cream);
+}
+
+.nav-item {
+    color: var(--mint-cream);
+    
+}
+
+.nav-text {
+    color: var(--middle-green) !important;
+}
+
+p {
+    color: var(--mint-cream);
+}
+
+h1 {
+    color: var(--tea-green);
+}
+
+h3 {
+    color: var(--tea-green)
+}
+
+.card-text {
+    color: var(--middle-green);
+}
+
+.card-body {
+    background-color: var(--celadon);
+}
+
+.card {
+    background-color: var(--celadon) ;
+}
