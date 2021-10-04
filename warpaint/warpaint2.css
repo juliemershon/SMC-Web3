@@ -12,9 +12,7 @@ body {
 }
 
 .toppix {
-    background-image: url('/images/jumbo2.png');
-  
-
+    background-image: url('./images/jumbo2.png');
 }
 
 .navbar {
